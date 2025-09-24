@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio.
 
 https://123-vinay.github.io/portfolio-personal/
 Welcome to my portfolio repository! This project showcases my skills in front-end web development, utilizing Bootstrap,
@@ -44,3 +44,4 @@ Acknowledgements
 
 Bootstrap: Responsive front-end framework.
 FontAwesome: Icons used throughout the portfolio.
+
