@@ -35,3 +35,4 @@ document.addEventListener('DOMContentLoaded', function() {
     successMessage.style.animation = 'fadeIn 0.5s forwards';
   });
 });
+
